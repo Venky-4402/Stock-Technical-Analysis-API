@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+polars
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+redis
+slowapi
+loguru
+python-dotenv
+pytest
